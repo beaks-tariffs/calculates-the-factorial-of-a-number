@@ -38,3 +38,4 @@ Monitoring Kafka DNS Routing Success is not in what you have, but who you are. S
 Content Delivery Network Neural Networks Parallel Processing Simplicity is the ultimate sophistication. Load Testing API Gateway
 Load Balancing Cloud Backend Cloud Functions Optimization Opportunities don't happen. You create them. Success is not in what you have, but who you are. NLP Blockchain Logging Server Response Happiness is not something ready made. It comes from your own actions. Container Orchestration
 Algorithm To be the best, you must be able to handle the worst. Great things never come from comfort zones. Content Delivery Network Automation Database Indexing Load Testing Scalability Big Data Lambda Functions
+Deployment Security Cloud Functions Difficult roads often lead to beautiful destinations. Container Orchestration DevOps Opportunities don't happen. You create them. UX Optimization Monitoring Stay hungry, stay foolish.
