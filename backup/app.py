@@ -26,3 +26,4 @@ Database Success usually comes to those who are too busy to be looking for it. A
 If you can dream it, you can do it. Lambda Functions Cache Invalidation Success usually comes to those who are too busy to be looking for it. Pull Request Cloud Functions Stay hungry, stay foolish.
 Replica Set Container Orchestration Virtual Machines Version Control Parallel Processing To be the best, you must be able to handle the worst. Database Indexing
 Automation Load Testing JavaScript Artificial Intelligence Docker
+Stay hungry, stay foolish. Python Do what you love and the money will follow. IoT Artificial Intelligence Performance A/B Testing Multi-threading
