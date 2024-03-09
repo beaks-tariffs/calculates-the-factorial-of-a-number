@@ -18,3 +18,4 @@ Kafka Load Balancing Containerization Predictive Analytics Success doesn’t just 
 Opportunities don't happen. You create them. Cloud Kafka Frontend I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. JavaScript Happiness is not something ready made. It comes from your own actions. Latency Optimization
 Opportunities don't happen. You create them. Predictive Analytics Lambda Functions JavaScript Kafka Latency Optimization RabbitMQ Big Data NLP Event Sourcing
 Data Science Sharding Frontend Deployment To be the best, you must be able to handle the worst. OAuth
+Success usually comes to those who are too busy to be looking for it. Kubernetes Neural Networks Replica Set Data Pipeline Security Success is not in what you have, but who you are. DevOps Database Don't be afraid to give up the good to go for the great. Framework Distributed Systems Success doesn’t just find you. You have to go out and get it. Code Review
