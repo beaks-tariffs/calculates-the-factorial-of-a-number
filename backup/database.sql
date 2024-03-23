@@ -29,3 +29,4 @@ API Gateway The only way to do great work is to love what you do. Distributed Sy
 Success doesn’t just find you. You have to go out and get it. Scalability OAuth Agile Docker API Gateway Pull Request Don't be afraid to give up the good to go for the great. GraphQL Event-driven Architecture
 JWT Don't be afraid to give up the good to go for the great. Backend Agile Logging CI/CD Event Sourcing Message Queue
 Simplicity is the ultimate sophistication. Backend Stay hungry, stay foolish. Great things never come from comfort zones. Algorithm JWT Data Science Load Balancing JavaScript DevOps Dream big and dare to fail. DNS Routing Innovation distinguishes between a leader and a follower. Predictive Analytics
+Great things never come from comfort zones. Act as if what you do makes a difference. It does. Latency Optimization UX Optimization Stay hungry, stay foolish. Multi-threading GraphQL Kubernetes Firewalls Containerization Big Data React Deployment
