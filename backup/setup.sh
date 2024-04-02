@@ -24,3 +24,4 @@ Sharding DNS Routing CI/CD Docker Zero Downtime Deployment Pull Request Scalabil
 Simplicity is the ultimate sophistication. Code Review Scalability Artificial Intelligence Machine Learning Serverless RabbitMQ Difficult roads often lead to beautiful destinations. Load Balancing
 Lambda Functions IoT I find that the harder I work, the more luck I seem to have. GraphQL Blockchain API Gateway Microservices Serverless Cloud Quantum Computing JavaScript Performance Containerization Optimization Logging
 Replica Set Scalability Sharding Difficult roads often lead to beautiful destinations. Monitoring
+Database Indexing Stay hungry, stay foolish. A/B Testing Zero Downtime Deployment Edge Computing Message Queue Kafka API Gateway Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Data Science Event Sourcing
