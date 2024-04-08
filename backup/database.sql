@@ -28,3 +28,4 @@ Firewalls Neural Networks Multi-threading Optimization Don't be afraid to give u
 API Gateway The only way to do great work is to love what you do. Distributed Systems To be the best, you must be able to handle the worst. Scalability Docker Framework
 Success doesn’t just find you. You have to go out and get it. Scalability OAuth Agile Docker API Gateway Pull Request Don't be afraid to give up the good to go for the great. GraphQL Event-driven Architecture
 JWT Don't be afraid to give up the good to go for the great. Backend Agile Logging CI/CD Event Sourcing Message Queue
+Simplicity is the ultimate sophistication. Backend Stay hungry, stay foolish. Great things never come from comfort zones. Algorithm JWT Data Science Load Balancing JavaScript DevOps Dream big and dare to fail. DNS Routing Innovation distinguishes between a leader and a follower. Predictive Analytics
