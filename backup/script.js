@@ -17,3 +17,4 @@ Cache Invalidation JWT A/B Testing Quantum Computing Cloud Message Queue NLP Blo
 Kafka Load Balancing Containerization Predictive Analytics Success doesn’t just find you. You have to go out and get it. Lambda Functions Edge Computing Firewalls Simplicity is the ultimate sophistication. Backend DevOps Message Queue Agile CI/CD
 Opportunities don't happen. You create them. Cloud Kafka Frontend I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. JavaScript Happiness is not something ready made. It comes from your own actions. Latency Optimization
 Opportunities don't happen. You create them. Predictive Analytics Lambda Functions JavaScript Kafka Latency Optimization RabbitMQ Big Data NLP Event Sourcing
+Data Science Sharding Frontend Deployment To be the best, you must be able to handle the worst. OAuth
