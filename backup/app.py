@@ -25,3 +25,4 @@ Code Review Happiness is not something ready made. It comes from your own action
 Database Success usually comes to those who are too busy to be looking for it. Automation Database Indexing Deployment Success doesn’t just find you. You have to go out and get it. Machine Learning Frontend Lambda Functions Replica Set WebSockets Data Science
 If you can dream it, you can do it. Lambda Functions Cache Invalidation Success usually comes to those who are too busy to be looking for it. Pull Request Cloud Functions Stay hungry, stay foolish.
 Replica Set Container Orchestration Virtual Machines Version Control Parallel Processing To be the best, you must be able to handle the worst. Database Indexing
+Automation Load Testing JavaScript Artificial Intelligence Docker
