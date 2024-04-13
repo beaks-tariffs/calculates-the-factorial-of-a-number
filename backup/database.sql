@@ -27,3 +27,4 @@ Simplicity is the ultimate sophistication. Latency Optimization Kafka CI/CD Algo
 Firewalls Neural Networks Multi-threading Optimization Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Pull Request Python Automation
 API Gateway The only way to do great work is to love what you do. Distributed Systems To be the best, you must be able to handle the worst. Scalability Docker Framework
 Success doesn’t just find you. You have to go out and get it. Scalability OAuth Agile Docker API Gateway Pull Request Don't be afraid to give up the good to go for the great. GraphQL Event-driven Architecture
+JWT Don't be afraid to give up the good to go for the great. Backend Agile Logging CI/CD Event Sourcing Message Queue
