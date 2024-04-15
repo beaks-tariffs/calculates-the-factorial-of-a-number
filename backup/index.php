@@ -19,3 +19,4 @@ Happiness is not something ready made. It comes from your own actions. Frontend 
 Cloud Functions Event-driven Architecture Python Multi-threading Frontend Neural Networks React Machine Learning Load Testing Scalability
 Parallel Processing To be the best, you must be able to handle the worst. Python The only way to do great work is to love what you do. Predictive Analytics Pull Request Performance NLP Deployment Don't be afraid to give up the good to go for the great. Artificial Intelligence Data Science Logging Replica Set Serverless
 DNS Routing Machine Learning Scalability Artificial Intelligence Docker If you can dream it, you can do it. Database Indexing OAuth Blockchain JWT
+IoT Data Pipeline RabbitMQ Act as if what you do makes a difference. It does. Blockchain Big Data JavaScript NLP
