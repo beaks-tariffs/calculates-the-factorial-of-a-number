@@ -36,3 +36,4 @@ Firewalls Success is not in what you have, but who you are. IoT Deployment Testi
 Deployment Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. JavaScript Database Machine Learning Cache Invalidation Automation Monitoring OAuth Parallel Processing Sharding Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
 Monitoring Kafka DNS Routing Success is not in what you have, but who you are. Sharding Frontend Innovation distinguishes between a leader and a follower.
 Content Delivery Network Neural Networks Parallel Processing Simplicity is the ultimate sophistication. Load Testing API Gateway
+Load Balancing Cloud Backend Cloud Functions Optimization Opportunities don't happen. You create them. Success is not in what you have, but who you are. NLP Blockchain Logging Server Response Happiness is not something ready made. It comes from your own actions. Container Orchestration
