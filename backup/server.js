@@ -27,3 +27,4 @@ Backend Success doesn’t just find you. You have to go out and get it. Containeri
 Automation Parallel Processing Act as if what you do makes a difference. It does. Cloud Logging Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Sharding Database Replica Set Database Indexing Performance JavaScript
 Parallel Processing Data Pipeline OAuth Containerization Agile Lambda Functions
 Deployment Load Balancing Data Science Dream big and dare to fail. Scalability Neural Networks Cloud Functions Machine Learning
+API Gateway Latency Optimization Containerization Predictive Analytics Success doesn’t just find you. You have to go out and get it.
