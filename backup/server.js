@@ -25,3 +25,4 @@ Event-driven Architecture OAuth Cache Invalidation Predictive Analytics Docker V
 Kafka Cloud Functions Edge Computing Containerization Event-driven Architecture Load Balancing Message Queue Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Load Testing NLP
 Backend Success doesn’t just find you. You have to go out and get it. Containerization Logging The only way to do great work is to love what you do. Data Pipeline Content Delivery Network Predictive Analytics CI/CD Success is how high you bounce when you hit bottom. Frontend
 Automation Parallel Processing Act as if what you do makes a difference. It does. Cloud Logging Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Sharding Database Replica Set Database Indexing Performance JavaScript
+Parallel Processing Data Pipeline OAuth Containerization Agile Lambda Functions
