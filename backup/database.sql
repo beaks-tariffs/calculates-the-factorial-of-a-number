@@ -25,3 +25,4 @@ Content Delivery Network Cache Invalidation Quantum Computing RabbitMQ Automatio
 CI/CD Framework Artificial Intelligence I find that the harder I work, the more luck I seem to have. Frontend
 Simplicity is the ultimate sophistication. Latency Optimization Kafka CI/CD Algorithm Docker Pull Request Security OAuth A/B Testing API Gateway Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions.
 Firewalls Neural Networks Multi-threading Optimization Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Pull Request Python Automation
+API Gateway The only way to do great work is to love what you do. Distributed Systems To be the best, you must be able to handle the worst. Scalability Docker Framework

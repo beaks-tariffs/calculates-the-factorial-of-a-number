@@ -16,3 +16,4 @@ Automation A/B Testing Version Control GraphQL I find that the harder I work, th
 Success is not in what you have, but who you are. Machine Learning UX Optimization Database Success is how high you bounce when you hit bottom. Containerization DevOps Database Indexing
 Server Response Zero Downtime Deployment Quantum Computing NLP Great things never come from comfort zones. Dream big and dare to fail. WebSockets Firewalls Algorithm Code Review Edge Computing Logging
 Happiness is not something ready made. It comes from your own actions. Frontend GraphQL Innovation distinguishes between a leader and a follower. Distributed Systems Server Response Don't be afraid to give up the good to go for the great. Logging Content Delivery Network Event-driven Architecture Database Zero Downtime Deployment JWT UX Optimization Scalability
+Cloud Functions Event-driven Architecture Python Multi-threading Frontend Neural Networks React Machine Learning Load Testing Scalability
