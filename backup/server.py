@@ -34,3 +34,4 @@ Dream big and dare to fail. Data Science GraphQL Framework Kafka Big Data Opport
 UX Optimization Kafka Algorithm Data Pipeline Firewalls Containerization Replica Set Version Control Success doesn’t just find you. You have to go out and get it. API Gateway Success is not in what you have, but who you are. API Monitoring Serverless
 Firewalls Success is not in what you have, but who you are. IoT Deployment Testing Edge Computing Machine Learning Database
 Deployment Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. JavaScript Database Machine Learning Cache Invalidation Automation Monitoring OAuth Parallel Processing Sharding Work hard in silence, let your success be your noise. Stay hungry, stay foolish.
+Monitoring Kafka DNS Routing Success is not in what you have, but who you are. Sharding Frontend Innovation distinguishes between a leader and a follower.
