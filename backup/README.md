@@ -21,3 +21,4 @@ Replica Set Content Delivery Network Firewalls DNS Routing React
 Zero Downtime Deployment Sharding If you can dream it, you can do it. The only way to do great work is to love what you do. Microservices CI/CD Work hard in silence, let your success be your noise.
 UX Optimization Container Orchestration Big Data Parallel Processing Testing Cache Invalidation Performance Success usually comes to those who are too busy to be looking for it. Agile Optimization Quantum Computing Kubernetes Framework Distributed Systems
 Optimization Message Queue OAuth React Firewalls Quantum Computing Python Don't be afraid to give up the good to go for the great. Container Orchestration Lambda Functions
+Success doesn’t just find you. You have to go out and get it. Lambda Functions Performance Testing NLP React Microservices To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Serverless
