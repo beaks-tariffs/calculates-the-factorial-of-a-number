@@ -22,3 +22,4 @@ Sharding Testing Predictive Analytics Distributed Systems Neural Networks Quantu
 Message Queue Virtual Machines Innovation distinguishes between a leader and a follower. Sharding IoT
 Sharding DNS Routing CI/CD Docker Zero Downtime Deployment Pull Request Scalability DevOps JavaScript Framework WebSockets Cloud Functions NLP IoT JWT
 Simplicity is the ultimate sophistication. Code Review Scalability Artificial Intelligence Machine Learning Serverless RabbitMQ Difficult roads often lead to beautiful destinations. Load Balancing
+Lambda Functions IoT I find that the harder I work, the more luck I seem to have. GraphQL Blockchain API Gateway Microservices Serverless Cloud Quantum Computing JavaScript Performance Containerization Optimization Logging
