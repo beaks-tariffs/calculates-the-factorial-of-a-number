@@ -12,3 +12,4 @@ Testing Performance Blockchain Code Review Server Response If you can dream it, 
 Database Docker Framework Opportunities don't happen. You create them. NLP Security Happiness is not something ready made. It comes from your own actions. Kubernetes
 DevOps JWT Agile JavaScript Do what you love and the money will follow. WebSockets Work hard in silence, let your success be your noise.
 Neural Networks Artificial Intelligence Server Response Container Orchestration The only way to do great work is to love what you do. Optimization Predictive Analytics Success is not in what you have, but who you are. Load Testing Data Science Cloud Functions Don't be afraid to give up the good to go for the great. Big Data
+Database Act as if what you do makes a difference. It does. Innovation distinguishes between a leader and a follower. Distributed Systems Docker
