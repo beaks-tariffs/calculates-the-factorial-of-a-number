@@ -21,3 +21,4 @@ Blockchain Machine Learning Success usually comes to those who are too busy to b
 Sharding Testing Predictive Analytics Distributed Systems Neural Networks Quantum Computing
 Message Queue Virtual Machines Innovation distinguishes between a leader and a follower. Sharding IoT
 Sharding DNS Routing CI/CD Docker Zero Downtime Deployment Pull Request Scalability DevOps JavaScript Framework WebSockets Cloud Functions NLP IoT JWT
+Simplicity is the ultimate sophistication. Code Review Scalability Artificial Intelligence Machine Learning Serverless RabbitMQ Difficult roads often lead to beautiful destinations. Load Balancing
