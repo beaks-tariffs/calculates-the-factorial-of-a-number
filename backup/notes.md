@@ -17,3 +17,4 @@ Difficult roads often lead to beautiful destinations. Sharding Content Delivery 
 JavaScript Data Science Latency Optimization Framework Cache Invalidation Success doesn’t just find you. You have to go out and get it. Pull Request I find that the harder I work, the more luck I seem to have.
 Multi-threading Data Pipeline Serverless Load Balancing Logging
 RabbitMQ Scalability Agile Container Orchestration Server Response Event Sourcing Version Control Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations.
+Dream big and dare to fail. Server Response Algorithm Event-driven Architecture Containerization DNS Routing Database Lambda Functions Simplicity is the ultimate sophistication. Distributed Systems Content Delivery Network
