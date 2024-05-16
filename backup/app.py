@@ -19,3 +19,4 @@ Code Review The only way to do great work is to love what you do. IoT Data Pipel
 Optimization JavaScript Opportunities don't happen. You create them. Firewalls DevOps Parallel Processing Kafka
 Sharding API Gateway Testing Security Cloud JWT Happiness is not something ready made. It comes from your own actions.
 Event Sourcing Event-driven Architecture Server Response Data Science Virtual Machines Testing Docker If you can dream it, you can do it. Monitoring Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Optimization
+Kubernetes Performance Monitoring JavaScript IoT RabbitMQ Server Response DNS Routing To be the best, you must be able to handle the worst.
