@@ -19,3 +19,4 @@ Act as if what you do makes a difference. It does. Load Testing Opportunities do
 RabbitMQ Agile Work hard in silence, let your success be your noise. Python Great things never come from comfort zones. Stay hungry, stay foolish. Parallel Processing Zero Downtime Deployment
 Blockchain Machine Learning Success usually comes to those who are too busy to be looking for it. API Gateway Testing Difficult roads often lead to beautiful destinations. UX Optimization Neural Networks Database OAuth Dream big and dare to fail.
 Sharding Testing Predictive Analytics Distributed Systems Neural Networks Quantum Computing
+Message Queue Virtual Machines Innovation distinguishes between a leader and a follower. Sharding IoT
