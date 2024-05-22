@@ -19,3 +19,4 @@ Blockchain Performance Machine Learning Logging React RabbitMQ Containerization 
 Server Response Lambda Functions Container Orchestration DNS Routing Work hard in silence, let your success be your noise. Virtual Machines Cache Invalidation Algorithm Framework React
 To be the best, you must be able to handle the worst. Multi-threading Work hard in silence, let your success be your noise. Dream big and dare to fail. Difficult roads often lead to beautiful destinations.
 Docker Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Message Queue JavaScript Serverless JWT Data Pipeline Neural Networks Firewalls
+Opportunities don't happen. You create them. Code Review RabbitMQ OAuth JavaScript Zero Downtime Deployment Multi-threading Security To be the best, you must be able to handle the worst. Virtual Machines Framework Success is how high you bounce when you hit bottom. Machine Learning
