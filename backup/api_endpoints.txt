@@ -18,3 +18,4 @@ Machine Learning Pull Request Artificial Intelligence Replica Set Cache Invalida
 Blockchain Performance Machine Learning Logging React RabbitMQ Containerization Database Indexing Monitoring Success usually comes to those who are too busy to be looking for it.
 Server Response Lambda Functions Container Orchestration DNS Routing Work hard in silence, let your success be your noise. Virtual Machines Cache Invalidation Algorithm Framework React
 To be the best, you must be able to handle the worst. Multi-threading Work hard in silence, let your success be your noise. Dream big and dare to fail. Difficult roads often lead to beautiful destinations.
+Docker Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Message Queue JavaScript Serverless JWT Data Pipeline Neural Networks Firewalls
