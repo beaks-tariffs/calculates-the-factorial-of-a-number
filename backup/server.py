@@ -31,3 +31,4 @@ Frontend DNS Routing Success doesn’t just find you. You have to go out and get i
 Microservices Algorithm Lambda Functions Event-driven Architecture Cloud Functions If you can dream it, you can do it. Content Delivery Network Backend
 Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. JavaScript Agile Database Indexing DevOps Machine Learning If you can dream it, you can do it. Replica Set To be the best, you must be able to handle the worst. API Gateway Framework Load Testing Automation
 Dream big and dare to fail. Data Science GraphQL Framework Kafka Big Data Opportunities don't happen. You create them.
+UX Optimization Kafka Algorithm Data Pipeline Firewalls Containerization Replica Set Version Control Success doesn’t just find you. You have to go out and get it. API Gateway Success is not in what you have, but who you are. API Monitoring Serverless
