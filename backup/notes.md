@@ -14,3 +14,4 @@ Act as if what you do makes a difference. It does. Work hard in silence, let you
 OAuth Frontend DNS Routing Success is not in what you have, but who you are. Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Backend API Gateway CI/CD Load Testing Event-driven Architecture
 Containerization DNS Routing Difficult roads often lead to beautiful destinations. DevOps Docker Content Delivery Network Latency Optimization Framework Sharding Predictive Analytics
 Difficult roads often lead to beautiful destinations. Sharding Content Delivery Network Neural Networks Kafka Artificial Intelligence Data Science Load Testing Success is not in what you have, but who you are. Logging Server Response Multi-threading Automation
+JavaScript Data Science Latency Optimization Framework Cache Invalidation Success doesn’t just find you. You have to go out and get it. Pull Request I find that the harder I work, the more luck I seem to have.
