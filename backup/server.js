@@ -22,3 +22,4 @@ Content Delivery Network Containerization NLP Sharding To be the best, you must 
 Data Pipeline Automation A/B Testing Stay hungry, stay foolish. Big Data
 A/B Testing Performance Great things never come from comfort zones. Virtual Machines NLP DevOps Distributed Systems Dream big and dare to fail. Neural Networks Event Sourcing
 Event-driven Architecture OAuth Cache Invalidation Predictive Analytics Docker Version Control Innovation distinguishes between a leader and a follower.
+Kafka Cloud Functions Edge Computing Containerization Event-driven Architecture Load Balancing Message Queue Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Load Testing NLP
