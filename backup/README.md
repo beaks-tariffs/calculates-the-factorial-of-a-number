@@ -15,3 +15,4 @@ Serverless Big Data Act as if what you do makes a difference. It does. Container
 A/B Testing Artificial Intelligence Do what you love and the money will follow. CI/CD RabbitMQ Machine Learning Load Balancing Distributed Systems Kafka Happiness is not something ready made. It comes from your own actions.
 Stay hungry, stay foolish. Distributed Systems CI/CD React DevOps OAuth Automation
 Python Neural Networks Multi-threading Cache Invalidation Do what you love and the money will follow. CI/CD Parallel Processing Opportunities don't happen. You create them. Monitoring Code Review JavaScript Simplicity is the ultimate sophistication. Quantum Computing
+Monitoring Dream big and dare to fail. Docker Innovation distinguishes between a leader and a follower. Scalability Load Testing Quantum Computing Blockchain Testing Python
