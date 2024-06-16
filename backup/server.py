@@ -29,3 +29,4 @@ Multi-threading Success is how high you bounce when you hit bottom. Simplicity i
 Big Data Load Testing Testing Docker Neural Networks GraphQL Message Queue Success doesn’t just find you. You have to go out and get it. Agile Virtual Machines API Monitoring Load Balancing UX Optimization Kafka
 Frontend DNS Routing Success doesn’t just find you. You have to go out and get it. Replica Set Monitoring
 Microservices Algorithm Lambda Functions Event-driven Architecture Cloud Functions If you can dream it, you can do it. Content Delivery Network Backend
+Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. JavaScript Agile Database Indexing DevOps Machine Learning If you can dream it, you can do it. Replica Set To be the best, you must be able to handle the worst. API Gateway Framework Load Testing Automation
