@@ -28,3 +28,4 @@ Cache Invalidation Kafka Cloud Functions Latency Optimization Load Balancing Blo
 Multi-threading Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Virtual Machines Database DNS Routing Cache Invalidation The only way to do great work is to love what you do. API Gateway WebSockets RabbitMQ Scalability Database Indexing Deployment
 Big Data Load Testing Testing Docker Neural Networks GraphQL Message Queue Success doesn’t just find you. You have to go out and get it. Agile Virtual Machines API Monitoring Load Balancing UX Optimization Kafka
 Frontend DNS Routing Success doesn’t just find you. You have to go out and get it. Replica Set Monitoring
+Microservices Algorithm Lambda Functions Event-driven Architecture Cloud Functions If you can dream it, you can do it. Content Delivery Network Backend
