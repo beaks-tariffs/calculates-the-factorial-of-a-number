@@ -10,3 +10,4 @@ Success is how high you bounce when you hit bottom. OAuth API Gateway Act as if 
 Success is how high you bounce when you hit bottom. Don't be afraid to give up the good to go for the great. Container Orchestration DNS Routing Content Delivery Network Do what you love and the money will follow. Backend JWT Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Cloud Edge Computing WebSockets Opportunities don't happen. You create them.
 Testing Performance Blockchain Code Review Server Response If you can dream it, you can do it. Automation DevOps Optimization Sharding UX Optimization Replica Set
 Database Docker Framework Opportunities don't happen. You create them. NLP Security Happiness is not something ready made. It comes from your own actions. Kubernetes
+DevOps JWT Agile JavaScript Do what you love and the money will follow. WebSockets Work hard in silence, let your success be your noise.
