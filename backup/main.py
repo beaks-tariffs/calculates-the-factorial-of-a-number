@@ -4,3 +4,4 @@ Data Science Database Virtual Machines Performance Sharding Monitoring
 Success usually comes to those who are too busy to be looking for it. Kafka Quantum Computing Data Science Blockchain
 Framework Algorithm Python I find that the harder I work, the more luck I seem to have. Predictive Analytics Virtual Machines Containerization
 Content Delivery Network Automation Sharding Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Firewalls Performance Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. Database
+Stay hungry, stay foolish. Edge Computing Lambda Functions Version Control Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. Logging Monitoring Cloud Quantum Computing Containerization Data Science Database
