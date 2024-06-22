@@ -17,3 +17,4 @@ Difficult roads often lead to beautiful destinations. Kafka Do what you love and
 Success is not in what you have, but who you are. Multi-threading WebSockets UX Optimization Big Data Container Orchestration Innovation distinguishes between a leader and a follower. Artificial Intelligence Act as if what you do makes a difference. It does. API CI/CD Parallel Processing Pull Request Machine Learning
 Code Review The only way to do great work is to love what you do. IoT Data Pipeline Innovation distinguishes between a leader and a follower. Data Science Parallel Processing
 Optimization JavaScript Opportunities don't happen. You create them. Firewalls DevOps Parallel Processing Kafka
+Sharding API Gateway Testing Security Cloud JWT Happiness is not something ready made. It comes from your own actions.

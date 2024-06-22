@@ -19,3 +19,4 @@ Act as if what you do makes a difference. It does. JavaScript Logging Containeri
 Opportunities don't happen. You create them. Sharding JWT UX Optimization Event-driven Architecture RabbitMQ
 JavaScript Frontend Backend Edge Computing Security Event Sourcing Cloud Great things never come from comfort zones.
 Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Blockchain Success doesn’t just find you. You have to go out and get it. Virtual Machines API Gateway Load Balancing Kubernetes Great things never come from comfort zones. Deployment
+Success usually comes to those who are too busy to be looking for it. React NLP Parallel Processing Message Queue JavaScript Backend Cloud Functions Work hard in silence, let your success be your noise. Predictive Analytics Automation

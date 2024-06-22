@@ -20,3 +20,4 @@ GraphQL API Gateway Load Testing Load Balancing Happiness is not something ready
 Success doesn’t just find you. You have to go out and get it. GraphQL Database Indexing Load Balancing Deployment Act as if what you do makes a difference. It does. React JavaScript Success is not in what you have, but who you are. Pull Request
 Content Delivery Network Containerization NLP Sharding To be the best, you must be able to handle the worst.
 Data Pipeline Automation A/B Testing Stay hungry, stay foolish. Big Data
+A/B Testing Performance Great things never come from comfort zones. Virtual Machines NLP DevOps Distributed Systems Dream big and dare to fail. Neural Networks Event Sourcing
