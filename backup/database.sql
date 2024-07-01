@@ -18,3 +18,4 @@ Cloud Code Review Frontend Testing NLP Logging Do what you love and the money wi
 Act as if what you do makes a difference. It does. JavaScript Logging Containerization Big Data A/B Testing Content Delivery Network To be the best, you must be able to handle the worst. JWT RabbitMQ
 Opportunities don't happen. You create them. Sharding JWT UX Optimization Event-driven Architecture RabbitMQ
 JavaScript Frontend Backend Edge Computing Security Event Sourcing Cloud Great things never come from comfort zones.
+Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Blockchain Success doesn’t just find you. You have to go out and get it. Virtual Machines API Gateway Load Balancing Kubernetes Great things never come from comfort zones. Deployment
