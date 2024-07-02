@@ -8,3 +8,4 @@ Database Indexing JWT Stay hungry, stay foolish. Success is how high you bounce 
 Artificial Intelligence Load Balancing Work hard in silence, let your success be your noise. Machine Learning Virtual Machines
 Kubernetes Machine Learning GraphQL Cache Invalidation Code Review Microservices Python If you can dream it, you can do it. UX Optimization
 RabbitMQ Parallel Processing Work hard in silence, let your success be your noise. Latency Optimization Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. Neural Networks Serverless Python Server Response JavaScript Docker Machine Learning
+UX Optimization Event-driven Architecture Cloud Event Sourcing IoT Distributed Systems Framework If you can dream it, you can do it. Act as if what you do makes a difference. It does. Version Control Message Queue OAuth Containerization Opportunities don't happen. You create them. Container Orchestration
