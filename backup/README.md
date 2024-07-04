@@ -13,3 +13,4 @@ The only way to do great work is to love what you do. Cloud Performance Success 
 Database Indexing DevOps Database GraphQL Zero Downtime Deployment WebSockets UX Optimization Kafka
 Serverless Big Data Act as if what you do makes a difference. It does. Container Orchestration Containerization
 A/B Testing Artificial Intelligence Do what you love and the money will follow. CI/CD RabbitMQ Machine Learning Load Balancing Distributed Systems Kafka Happiness is not something ready made. It comes from your own actions.
+Stay hungry, stay foolish. Distributed Systems CI/CD React DevOps OAuth Automation
