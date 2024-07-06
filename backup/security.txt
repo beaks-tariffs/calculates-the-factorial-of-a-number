@@ -9,3 +9,4 @@ Agile Blockchain Frontend API GraphQL Container Orchestration Opportunities don'
 Logging Content Delivery Network Cloud Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Optimization
 Multi-threading Server Response Happiness is not something ready made. It comes from your own actions. IoT UX Optimization
 DevOps GraphQL Pull Request Containerization Docker React Firewalls Distributed Systems JWT Security Content Delivery Network Algorithm Success is not in what you have, but who you are. Monitoring
+Cloud Functions Kubernetes Act as if what you do makes a difference. It does. WebSockets Microservices Latency Optimization Success is not in what you have, but who you are. Distributed Systems Backend GraphQL
