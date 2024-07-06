@@ -24,3 +24,4 @@ Cloud Simplicity is the ultimate sophistication. Work hard in silence, let your 
 Version Control Great things never come from comfort zones. Act as if what you do makes a difference. It does. Agile Python React
 Work hard in silence, let your success be your noise. Cloud NLP Python Logging Innovation distinguishes between a leader and a follower. Deployment Difficult roads often lead to beautiful destinations. Database Automation Testing Success doesn’t just find you. You have to go out and get it. UX Optimization WebSockets
 NLP GraphQL Do what you love and the money will follow. Logging RabbitMQ Quantum Computing Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. Stay hungry, stay foolish. Success is not in what you have, but who you are. Algorithm
+Cache Invalidation Kafka Cloud Functions Latency Optimization Load Balancing Blockchain Server Response Virtual Machines
