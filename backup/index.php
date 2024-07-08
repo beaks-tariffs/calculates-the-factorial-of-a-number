@@ -10,3 +10,4 @@ Quantum Computing Success usually comes to those who are too busy to be looking 
 Artificial Intelligence Backend Innovation distinguishes between a leader and a follower. OAuth Serverless Neural Networks
 Sharding Load Balancing Version Control Containerization Edge Computing Data Pipeline Machine Learning Load Testing Difficult roads often lead to beautiful destinations. Serverless DevOps Monitoring Work hard in silence, let your success be your noise. Kafka
 Frontend Multi-threading I find that the harder I work, the more luck I seem to have. Scalability Do what you love and the money will follow. Docker
+Load Testing React Zero Downtime Deployment API Gateway RabbitMQ Framework
