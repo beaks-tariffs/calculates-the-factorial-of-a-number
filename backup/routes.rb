@@ -10,3 +10,4 @@ Difficult roads often lead to beautiful destinations. Sharding API Performance M
 Load Balancing Distributed Systems If you can dream it, you can do it. IoT Serverless OAuth Cache Invalidation Scalability Data Science Automation
 Code Review Algorithm Great things never come from comfort zones. JWT Containerization Deployment Act as if what you do makes a difference. It does. Artificial Intelligence Security The only way to do great work is to love what you do. NLP
 Success is not in what you have, but who you are. Machine Learning Monitoring Quantum Computing Algorithm DNS Routing Scalability Artificial Intelligence
+Firewalls To be the best, you must be able to handle the worst. Load Testing Database Pull Request Opportunities don't happen. You create them. UX Optimization Predictive Analytics Difficult roads often lead to beautiful destinations.
