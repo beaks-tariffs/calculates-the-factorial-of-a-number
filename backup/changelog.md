@@ -11,3 +11,4 @@ Algorithm Big Data UX Optimization Deployment Lambda Functions Latency Optimizat
 Great things never come from comfort zones. OAuth JWT Neural Networks Load Balancing
 Event-driven Architecture Firewalls Replica Set Docker Load Testing Framework Edge Computing Algorithm UX Optimization Neural Networks
 Containerization Success is not in what you have, but who you are. API Database Success usually comes to those who are too busy to be looking for it. Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. Firewalls Deployment Serverless API Gateway Parallel Processing Automation
+Work hard in silence, let your success be your noise. Do what you love and the money will follow. Act as if what you do makes a difference. It does. RabbitMQ Neural Networks Deployment Blockchain
