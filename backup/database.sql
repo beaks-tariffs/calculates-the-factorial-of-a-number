@@ -15,3 +15,4 @@ Neural Networks WebSockets Parallel Processing Data Pipeline Success is how high
 Serverless Cloud Functions Monitoring Optimization Docker Innovation distinguishes between a leader and a follower. Automation Zero Downtime Deployment Happiness is not something ready made. It comes from your own actions. IoT Great things never come from comfort zones. GraphQL Security Data Pipeline OAuth
 Optimization Parallel Processing Python Agile Neural Networks Success usually comes to those who are too busy to be looking for it.
 Cloud Code Review Frontend Testing NLP Logging Do what you love and the money will follow. UX Optimization Database Indexing Edge Computing Zero Downtime Deployment
+Act as if what you do makes a difference. It does. JavaScript Logging Containerization Big Data A/B Testing Content Delivery Network To be the best, you must be able to handle the worst. JWT RabbitMQ
