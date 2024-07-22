@@ -13,3 +13,4 @@ Frontend Innovation distinguishes between a leader and a follower. Big Data Moni
 Code Review Cloud Database Server Response Load Balancing Work hard in silence, let your success be your noise.
 OAuth Load Balancing UX Optimization Happiness is not something ready made. It comes from your own actions. Scalability Version Control Lambda Functions Database JavaScript Data Pipeline Logging Neural Networks Code Review Database Indexing
 Code Review Zero Downtime Deployment Load Testing Automation Lambda Functions Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Neural Networks Cloud Functions DNS Routing Blockchain
+Message Queue Database Zero Downtime Deployment API Gateway Server Response JavaScript Python Security Multi-threading Microservices Act as if what you do makes a difference. It does. Edge Computing Code Review Blockchain Event-driven Architecture
