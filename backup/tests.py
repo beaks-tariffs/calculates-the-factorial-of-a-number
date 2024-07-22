@@ -6,3 +6,4 @@ Predictive Analytics IoT Database Indexing Blockchain Message Queue Happiness is
 API Gateway Event Sourcing Replica Set Success is not in what you have, but who you are. Lambda Functions Stay hungry, stay foolish. Serverless RabbitMQ Microservices
 Database Indexing JWT Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Logging UX Optimization Serverless Pull Request Happiness is not something ready made. It comes from your own actions. Message Queue Virtual Machines
 Artificial Intelligence Load Balancing Work hard in silence, let your success be your noise. Machine Learning Virtual Machines
+Kubernetes Machine Learning GraphQL Cache Invalidation Code Review Microservices Python If you can dream it, you can do it. UX Optimization
