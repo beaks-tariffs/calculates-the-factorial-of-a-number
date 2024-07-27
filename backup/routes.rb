@@ -8,3 +8,4 @@ Pull Request Artificial Intelligence Predictive Analytics The only way to do gre
 Edge Computing Machine Learning Multi-threading Artificial Intelligence Algorithm Sharding
 Difficult roads often lead to beautiful destinations. Sharding API Performance Message Queue
 Load Balancing Distributed Systems If you can dream it, you can do it. IoT Serverless OAuth Cache Invalidation Scalability Data Science Automation
+Code Review Algorithm Great things never come from comfort zones. JWT Containerization Deployment Act as if what you do makes a difference. It does. Artificial Intelligence Security The only way to do great work is to love what you do. NLP
