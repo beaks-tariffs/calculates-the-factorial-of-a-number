@@ -12,3 +12,4 @@ Success is how high you bounce when you hit bottom. To be the best, you must be 
 Frontend Innovation distinguishes between a leader and a follower. Big Data Monitoring Great things never come from comfort zones. Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Python API
 Code Review Cloud Database Server Response Load Balancing Work hard in silence, let your success be your noise.
 OAuth Load Balancing UX Optimization Happiness is not something ready made. It comes from your own actions. Scalability Version Control Lambda Functions Database JavaScript Data Pipeline Logging Neural Networks Code Review Database Indexing
+Code Review Zero Downtime Deployment Load Testing Automation Lambda Functions Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. Neural Networks Cloud Functions DNS Routing Blockchain
