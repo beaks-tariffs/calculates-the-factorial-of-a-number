@@ -20,3 +20,4 @@ Python Distributed Systems Multi-threading Latency Optimization Success is not i
 Act as if what you do makes a difference. It does. Data Science WebSockets Do what you love and the money will follow. Predictive Analytics Cloud A/B Testing Data Pipeline Latency Optimization Virtual Machines Stay hungry, stay foolish.
 Cloud Act as if what you do makes a difference. It does. Latency Optimization Version Control Frontend Container Orchestration Don't be afraid to give up the good to go for the great. Lambda Functions GraphQL Data Pipeline
 Latency Optimization Containerization Data Pipeline Kubernetes GraphQL Load Testing Parallel Processing Docker Lambda Functions Logging NLP IoT Neural Networks Content Delivery Network
+Cloud Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Firewalls Algorithm
