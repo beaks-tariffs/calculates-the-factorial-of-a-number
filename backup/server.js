@@ -16,3 +16,4 @@ DevOps Algorithm Artificial Intelligence Distributed Systems RabbitMQ Data Scien
 Happiness is not something ready made. It comes from your own actions. Big Data Performance Framework Dream big and dare to fail. The only way to do great work is to love what you do. GraphQL Stay hungry, stay foolish. Python To be the best, you must be able to handle the worst.
 Serverless Cloud Functions Kubernetes Opportunities don't happen. You create them. Deployment Firewalls Replica Set Event Sourcing Great things never come from comfort zones. DevOps
 Success is not in what you have, but who you are. Quantum Computing Do what you love and the money will follow. API Agile
+GraphQL API Gateway Load Testing Load Balancing Happiness is not something ready made. It comes from your own actions. Data Pipeline JavaScript UX Optimization Serverless Containerization DNS Routing Data Science NLP If you can dream it, you can do it.
