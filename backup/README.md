@@ -11,3 +11,4 @@ Microservices DNS Routing Logging Kubernetes Innovation distinguishes between a 
 Version Control Predictive Analytics UX Optimization Big Data Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Backend
 The only way to do great work is to love what you do. Cloud Performance Success usually comes to those who are too busy to be looking for it. Load Testing DNS Routing Framework Neural Networks Monitoring Don't be afraid to give up the good to go for the great. Firewalls WebSockets Success doesn’t just find you. You have to go out and get it.
 Database Indexing DevOps Database GraphQL Zero Downtime Deployment WebSockets UX Optimization Kafka
+Serverless Big Data Act as if what you do makes a difference. It does. Container Orchestration Containerization
