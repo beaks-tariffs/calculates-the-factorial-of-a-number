@@ -12,3 +12,4 @@ Latency Optimization Framework Predictive Analytics Algorithm JWT
 Success is not in what you have, but who you are. Message Queue Success doesn’t just find you. You have to go out and get it. Microservices Parallel Processing WebSockets Machine Learning Zero Downtime Deployment React Algorithm Frontend GraphQL Edge Computing
 Algorithm UX Optimization Version Control To be the best, you must be able to handle the worst. RabbitMQ
 Firewalls GraphQL If you can dream it, you can do it. NLP Event-driven Architecture Container Orchestration Containerization
+JavaScript Algorithm Kubernetes Quantum Computing Difficult roads often lead to beautiful destinations. Frontend Work hard in silence, let your success be your noise. Microservices

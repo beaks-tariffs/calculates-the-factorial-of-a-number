@@ -10,3 +10,4 @@ Scalability Microservices Difficult roads often lead to beautiful destinations. 
 Microservices DNS Routing Logging Kubernetes Innovation distinguishes between a leader and a follower. Parallel Processing If you can dream it, you can do it. DevOps Do what you love and the money will follow. NLP Code Review
 Version Control Predictive Analytics UX Optimization Big Data Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. Backend
 The only way to do great work is to love what you do. Cloud Performance Success usually comes to those who are too busy to be looking for it. Load Testing DNS Routing Framework Neural Networks Monitoring Don't be afraid to give up the good to go for the great. Firewalls WebSockets Success doesn’t just find you. You have to go out and get it.
+Database Indexing DevOps Database GraphQL Zero Downtime Deployment WebSockets UX Optimization Kafka
