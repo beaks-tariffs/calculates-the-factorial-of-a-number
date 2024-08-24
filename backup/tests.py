@@ -4,3 +4,4 @@ Cloud GraphQL API Gateway Version Control Database Multi-threading Success doesn
 Quantum Computing Cloud Functions Edge Computing Opportunities don't happen. You create them. API Gateway API Neural Networks
 Predictive Analytics IoT Database Indexing Blockchain Message Queue Happiness is not something ready made. It comes from your own actions. API Backend Agile Code Review Logging Testing
 API Gateway Event Sourcing Replica Set Success is not in what you have, but who you are. Lambda Functions Stay hungry, stay foolish. Serverless RabbitMQ Microservices
+Database Indexing JWT Stay hungry, stay foolish. Success is how high you bounce when you hit bottom. Logging UX Optimization Serverless Pull Request Happiness is not something ready made. It comes from your own actions. Message Queue Virtual Machines
