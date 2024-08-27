@@ -3,3 +3,4 @@ Latency Optimization Cloud Functions Testing Happiness is not something ready ma
 Cloud GraphQL API Gateway Version Control Database Multi-threading Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Big Data Virtual Machines The only way to do great work is to love what you do. If you can dream it, you can do it. JavaScript
 Quantum Computing Cloud Functions Edge Computing Opportunities don't happen. You create them. API Gateway API Neural Networks
 Predictive Analytics IoT Database Indexing Blockchain Message Queue Happiness is not something ready made. It comes from your own actions. API Backend Agile Code Review Logging Testing
+API Gateway Event Sourcing Replica Set Success is not in what you have, but who you are. Lambda Functions Stay hungry, stay foolish. Serverless RabbitMQ Microservices
