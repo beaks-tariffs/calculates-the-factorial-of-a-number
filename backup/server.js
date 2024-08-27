@@ -14,3 +14,4 @@ JavaScript Great things never come from comfort zones. Kubernetes To be the best
 Optimization RabbitMQ Python Quantum Computing Load Balancing Great things never come from comfort zones. Framework GraphQL Multi-threading
 DevOps Algorithm Artificial Intelligence Distributed Systems RabbitMQ Data Science Optimization Parallel Processing If you can dream it, you can do it. Container Orchestration Kubernetes
 Happiness is not something ready made. It comes from your own actions. Big Data Performance Framework Dream big and dare to fail. The only way to do great work is to love what you do. GraphQL Stay hungry, stay foolish. Python To be the best, you must be able to handle the worst.
+Serverless Cloud Functions Kubernetes Opportunities don't happen. You create them. Deployment Firewalls Replica Set Event Sourcing Great things never come from comfort zones. DevOps
