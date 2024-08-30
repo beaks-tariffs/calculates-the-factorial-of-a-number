@@ -11,3 +11,4 @@ GraphQL Containerization IoT Docker Happiness is not something ready made. It co
 DevOps IoT Containerization Replica Set Kubernetes Multi-threading Success is how high you bounce when you hit bottom. A/B Testing Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment
 Latency Optimization A/B Testing Stay hungry, stay foolish. Great things never come from comfort zones. Code Review Dream big and dare to fail. Simplicity is the ultimate sophistication. Automation
 Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. Pull Request DevOps Containerization Monitoring Microservices Success is not in what you have, but who you are. UX Optimization Blockchain Cloud Agile Quantum Computing If you can dream it, you can do it.
+Latency Optimization Testing UX Optimization Firewalls WebSockets Cloud Functions
