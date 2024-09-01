@@ -9,3 +9,4 @@ To be the best, you must be able to handle the worst. Version Control Content De
 Optimization A/B Testing Virtual Machines Happiness is not something ready made. It comes from your own actions. DNS Routing Cloud Functions React Success usually comes to those who are too busy to be looking for it.
 IoT I find that the harder I work, the more luck I seem to have. JWT Load Balancing Algorithm Optimization Cloud Functions Containerization A/B Testing Act as if what you do makes a difference. It does. API
 Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Edge Computing RabbitMQ Artificial Intelligence Performance I find that the harder I work, the more luck I seem to have. Data Pipeline
+Latency Optimization Firewalls Pull Request Multi-threading Simplicity is the ultimate sophistication. Sharding Algorithm Stay hungry, stay foolish. Great things never come from comfort zones. WebSockets OAuth
