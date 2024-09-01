@@ -7,3 +7,4 @@ Database Quantum Computing Great things never come from comfort zones. NLP Zero 
 Pull Request Artificial Intelligence Predictive Analytics The only way to do great work is to love what you do. Containerization Event Sourcing Great things never come from comfort zones. UX Optimization Dream big and dare to fail. Framework API Backend Success doesn’t just find you. You have to go out and get it. Deployment Virtual Machines
 Edge Computing Machine Learning Multi-threading Artificial Intelligence Algorithm Sharding
 Difficult roads often lead to beautiful destinations. Sharding API Performance Message Queue
+Load Balancing Distributed Systems If you can dream it, you can do it. IoT Serverless OAuth Cache Invalidation Scalability Data Science Automation
