@@ -6,3 +6,4 @@ If you can dream it, you can do it. Cloud Docker Cloud Functions Firewalls
 Server Response RabbitMQ Data Science Data Pipeline Code Review Container Orchestration Version Control
 Act as if what you do makes a difference. It does. Security Pull Request Event Sourcing Scalability Success doesn’t just find you. You have to go out and get it. Predictive Analytics Kafka Stay hungry, stay foolish. Framework
 Code Review Cloud Functions Agile Parallel Processing Difficult roads often lead to beautiful destinations. DNS Routing
+Success is how high you bounce when you hit bottom. OAuth API Gateway Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Container Orchestration
