@@ -16,3 +16,4 @@ OAuth NLP IoT Act as if what you do makes a difference. It does. Parallel Proces
 Algorithm UX Optimization API Latency Optimization Distributed Systems Optimization Microservices Load Balancing Serverless Frontend
 Parallel Processing Success is not in what you have, but who you are. Artificial Intelligence Cache Invalidation Data Pipeline Success doesn’t just find you. You have to go out and get it.
 Load Testing Distributed Systems Neural Networks Python Predictive Analytics Success is not in what you have, but who you are. API Gateway A/B Testing OAuth Act as if what you do makes a difference. It does.
+Python Distributed Systems Multi-threading Latency Optimization Success is not in what you have, but who you are. Microservices

@@ -13,3 +13,4 @@ Neural Networks Distributed Systems Dream big and dare to fail. RabbitMQ Blockch
 Predictive Analytics Logging DNS Routing Distributed Systems Agile Replica Set Backend CI/CD Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Multi-threading Server Response Database Indexing Microservices
 Neural Networks Firewalls Sharding Stay hungry, stay foolish. Algorithm Message Queue Framework Security JavaScript Optimization
 Edge Computing Multi-threading Happiness is not something ready made. It comes from your own actions. Pull Request DNS Routing RabbitMQ
+React RabbitMQ Artificial Intelligence The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Data Pipeline Predictive Analytics Neural Networks
