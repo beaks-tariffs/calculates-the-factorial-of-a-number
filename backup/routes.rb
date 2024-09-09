@@ -6,3 +6,4 @@ If you can dream it, you can do it. UX Optimization Monitoring Testing Firewalls
 Database Quantum Computing Great things never come from comfort zones. NLP Zero Downtime Deployment Microservices Success usually comes to those who are too busy to be looking for it. Code Review
 Pull Request Artificial Intelligence Predictive Analytics The only way to do great work is to love what you do. Containerization Event Sourcing Great things never come from comfort zones. UX Optimization Dream big and dare to fail. Framework API Backend Success doesn’t just find you. You have to go out and get it. Deployment Virtual Machines
 Edge Computing Machine Learning Multi-threading Artificial Intelligence Algorithm Sharding
+Difficult roads often lead to beautiful destinations. Sharding API Performance Message Queue
