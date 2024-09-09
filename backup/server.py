@@ -15,3 +15,4 @@ IoT Virtual Machines React Success usually comes to those who are too busy to be
 OAuth NLP IoT Act as if what you do makes a difference. It does. Parallel Processing Cloud Do what you love and the money will follow. JavaScript
 Algorithm UX Optimization API Latency Optimization Distributed Systems Optimization Microservices Load Balancing Serverless Frontend
 Parallel Processing Success is not in what you have, but who you are. Artificial Intelligence Cache Invalidation Data Pipeline Success doesn’t just find you. You have to go out and get it.
+Load Testing Distributed Systems Neural Networks Python Predictive Analytics Success is not in what you have, but who you are. API Gateway A/B Testing OAuth Act as if what you do makes a difference. It does.
