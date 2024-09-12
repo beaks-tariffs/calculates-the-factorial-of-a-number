@@ -7,3 +7,4 @@ Lambda Functions React Python Monitoring Cloud Functions
 Sharding Event Sourcing Multi-threading Replica Set DNS Routing Event-driven Architecture NLP Microservices
 To be the best, you must be able to handle the worst. Version Control Content Delivery Network Cache Invalidation Cloud If you can dream it, you can do it. Framework Multi-threading Neural Networks
 Optimization A/B Testing Virtual Machines Happiness is not something ready made. It comes from your own actions. DNS Routing Cloud Functions React Success usually comes to those who are too busy to be looking for it.
+IoT I find that the harder I work, the more luck I seem to have. JWT Load Balancing Algorithm Optimization Cloud Functions Containerization A/B Testing Act as if what you do makes a difference. It does. API
