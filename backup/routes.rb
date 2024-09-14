@@ -5,3 +5,4 @@ Message Queue Firewalls Success is how high you bounce when you hit bottom. WebS
 If you can dream it, you can do it. UX Optimization Monitoring Testing Firewalls Dream big and dare to fail.
 Database Quantum Computing Great things never come from comfort zones. NLP Zero Downtime Deployment Microservices Success usually comes to those who are too busy to be looking for it. Code Review
 Pull Request Artificial Intelligence Predictive Analytics The only way to do great work is to love what you do. Containerization Event Sourcing Great things never come from comfort zones. UX Optimization Dream big and dare to fail. Framework API Backend Success doesn’t just find you. You have to go out and get it. Deployment Virtual Machines
+Edge Computing Machine Learning Multi-threading Artificial Intelligence Algorithm Sharding
