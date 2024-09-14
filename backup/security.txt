@@ -5,3 +5,4 @@ Version Control Docker Message Queue GraphQL Difficult roads often lead to beaut
 Testing Pull Request Content Delivery Network Load Testing Logging Microservices Python NLP Load Balancing
 Server Response Agile Backend Big Data Simplicity is the ultimate sophistication.
 Content Delivery Network OAuth Stay hungry, stay foolish. Server Response Python Framework Work hard in silence, let your success be your noise. A/B Testing Sharding
+Agile Blockchain Frontend API GraphQL Container Orchestration Opportunities don't happen. You create them. Do what you love and the money will follow.
