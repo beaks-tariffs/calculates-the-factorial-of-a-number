@@ -5,3 +5,4 @@ Version Control Firewalls Data Pipeline Load Balancing Serverless RabbitMQ Virtu
 Artificial Intelligence Cloud RabbitMQ Database Indexing JavaScript Optimization To be the best, you must be able to handle the worst. Message Queue Content Delivery Network Blockchain Success doesn’t just find you. You have to go out and get it. Event-driven Architecture
 Lambda Functions React Python Monitoring Cloud Functions
 Sharding Event Sourcing Multi-threading Replica Set DNS Routing Event-driven Architecture NLP Microservices
+To be the best, you must be able to handle the worst. Version Control Content Delivery Network Cache Invalidation Cloud If you can dream it, you can do it. Framework Multi-threading Neural Networks

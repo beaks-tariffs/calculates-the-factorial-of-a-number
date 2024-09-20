@@ -11,3 +11,4 @@ WebSockets Framework Virtual Machines Blockchain To be the best, you must be abl
 Neural Networks Microservices Serverless Success is not in what you have, but who you are. Load Balancing Sharding
 Neural Networks Distributed Systems Dream big and dare to fail. RabbitMQ Blockchain Cache Invalidation Backend Innovation distinguishes between a leader and a follower. Logging Success doesn’t just find you. You have to go out and get it. Virtual Machines IoT Code Review Framework
 Predictive Analytics Logging DNS Routing Distributed Systems Agile Replica Set Backend CI/CD Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Multi-threading Server Response Database Indexing Microservices
+Neural Networks Firewalls Sharding Stay hungry, stay foolish. Algorithm Message Queue Framework Security JavaScript Optimization
