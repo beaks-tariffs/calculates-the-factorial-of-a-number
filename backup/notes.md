@@ -4,3 +4,4 @@ React WebSockets Docker Distributed Systems Microservices Predictive Analytics H
 Version Control Firewalls Data Pipeline Load Balancing Serverless RabbitMQ Virtual Machines Edge Computing A/B Testing Lambda Functions Automation Blockchain
 Artificial Intelligence Cloud RabbitMQ Database Indexing JavaScript Optimization To be the best, you must be able to handle the worst. Message Queue Content Delivery Network Blockchain Success doesn’t just find you. You have to go out and get it. Event-driven Architecture
 Lambda Functions React Python Monitoring Cloud Functions
+Sharding Event Sourcing Multi-threading Replica Set DNS Routing Event-driven Architecture NLP Microservices
