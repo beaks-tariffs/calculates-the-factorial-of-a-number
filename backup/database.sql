@@ -9,3 +9,4 @@ Neural Networks NLP RabbitMQ Serverless OAuth
 Frontend Sharding Distributed Systems GraphQL Content Delivery Network DevOps To be the best, you must be able to handle the worst. Success is not in what you have, but who you are.
 Serverless Version Control Python Microservices Lambda Functions Framework Server Response Code Review Data Science Performance API Gateway Sharding Event-driven Architecture
 I find that the harder I work, the more luck I seem to have. Database Indexing Lambda Functions Logging Cache Invalidation Data Science Great things never come from comfort zones. A/B Testing Artificial Intelligence Server Response
+Containerization Work hard in silence, let your success be your noise. Multi-threading Frontend Performance Success doesn’t just find you. You have to go out and get it. DNS Routing Pull Request RabbitMQ Difficult roads often lead to beautiful destinations. Load Testing
