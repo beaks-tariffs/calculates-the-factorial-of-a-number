@@ -9,3 +9,4 @@ Version Control To be the best, you must be able to handle the worst. Testing Ze
 React Zero Downtime Deployment Artificial Intelligence Data Science Backend Multi-threading Machine Learning Stay hungry, stay foolish. NLP
 A/B Testing API Gateway Success is how high you bounce when you hit bottom. Containerization To be the best, you must be able to handle the worst. If you can dream it, you can do it. The only way to do great work is to love what you do. Testing Serverless Content Delivery Network Parallel Processing IoT
 Quantum Computing DNS Routing JavaScript API DevOps Serverless React Security
+Backend Neural Networks Success is not in what you have, but who you are. Frontend Zero Downtime Deployment Logging UX Optimization
