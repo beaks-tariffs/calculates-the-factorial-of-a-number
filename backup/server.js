@@ -12,3 +12,4 @@ Cloud Functions To be the best, you must be able to handle the worst. Zero Downt
 Blockchain I find that the harder I work, the more luck I seem to have. Performance Scalability Agile Cache Invalidation API Gateway CI/CD Message Queue Success is not in what you have, but who you are.
 JavaScript Great things never come from comfort zones. Kubernetes To be the best, you must be able to handle the worst. Python Act as if what you do makes a difference. It does. Dream big and dare to fail. Message Queue Replica Set
 Optimization RabbitMQ Python Quantum Computing Load Balancing Great things never come from comfort zones. Framework GraphQL Multi-threading
+DevOps Algorithm Artificial Intelligence Distributed Systems RabbitMQ Data Science Optimization Parallel Processing If you can dream it, you can do it. Container Orchestration Kubernetes
