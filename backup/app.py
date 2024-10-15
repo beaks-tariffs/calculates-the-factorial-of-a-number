@@ -8,3 +8,4 @@ Latency Optimization API Event-driven Architecture Work hard in silence, let you
 CI/CD Testing Monitoring To be the best, you must be able to handle the worst. Pull Request API Gateway Containerization Cloud Functions
 Blockchain RabbitMQ Virtual Machines Stay hungry, stay foolish. Sharding NLP Algorithm Kafka Load Testing API Gateway If you can dream it, you can do it. Pull Request
 GraphQL Containerization IoT Docker Happiness is not something ready made. It comes from your own actions. Simplicity is the ultimate sophistication. Dream big and dare to fail. Pull Request Work hard in silence, let your success be your noise. Message Queue CI/CD Testing Content Delivery Network OAuth
+DevOps IoT Containerization Replica Set Kubernetes Multi-threading Success is how high you bounce when you hit bottom. A/B Testing Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment

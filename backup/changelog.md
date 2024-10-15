@@ -4,3 +4,4 @@ Success doesn’t just find you. You have to go out and get it. Latency Optimizati
 API Gateway Load Testing To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. RabbitMQ Pull Request
 Frontend The only way to do great work is to love what you do. Kafka Great things never come from comfort zones. Distributed Systems I find that the harder I work, the more luck I seem to have. Parallel Processing Opportunities don't happen. You create them. Cache Invalidation Machine Learning JWT Load Testing Success is not in what you have, but who you are. Code Review React
 Monitoring Cache Invalidation Data Science Security Agile Load Testing
+Latency Optimization Data Science Neural Networks Firewalls Microservices Message Queue Code Review Machine Learning To be the best, you must be able to handle the worst. Edge Computing Testing
