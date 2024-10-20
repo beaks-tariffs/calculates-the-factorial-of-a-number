@@ -5,3 +5,4 @@ Cloud Functions Code Review Monitoring Deployment Server Response Backend Load T
 Python Data Science Scalability DevOps Difficult roads often lead to beautiful destinations. If you can dream it, you can do it.
 The only way to do great work is to love what you do. IoT RabbitMQ Predictive Analytics Sharding Algorithm Database Machine Learning Server Response Cloud Data Science Kubernetes Frontend
 Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Cache Invalidation Content Delivery Network WebSockets Virtual Machines Security
+Load Testing Simplicity is the ultimate sophistication. Logging Cache Invalidation If you can dream it, you can do it. Data Pipeline Act as if what you do makes a difference. It does. Kafka Microservices

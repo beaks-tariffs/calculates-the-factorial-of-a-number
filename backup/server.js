@@ -9,3 +9,4 @@ Microservices Logging Scalability Security Server Response Don't be afraid to gi
 Kubernetes Version Control Firewalls Success is not in what you have, but who you are. Neural Networks
 Optimization Logging Neural Networks If you can dream it, you can do it. Great things never come from comfort zones.
 Cloud Functions To be the best, you must be able to handle the worst. Zero Downtime Deployment Success is not in what you have, but who you are. Kubernetes Container Orchestration Performance
+Blockchain I find that the harder I work, the more luck I seem to have. Performance Scalability Agile Cache Invalidation API Gateway CI/CD Message Queue Success is not in what you have, but who you are.
