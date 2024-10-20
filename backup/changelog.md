@@ -3,3 +3,4 @@ Success usually comes to those who are too busy to be looking for it. Difficult 
 Success doesn’t just find you. You have to go out and get it. Latency Optimization Logging A/B Testing API Gateway Content Delivery Network Multi-threading Kafka Predictive Analytics Success is how high you bounce when you hit bottom.
 API Gateway Load Testing To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. RabbitMQ Pull Request
 Frontend The only way to do great work is to love what you do. Kafka Great things never come from comfort zones. Distributed Systems I find that the harder I work, the more luck I seem to have. Parallel Processing Opportunities don't happen. You create them. Cache Invalidation Machine Learning JWT Load Testing Success is not in what you have, but who you are. Code Review React
+Monitoring Cache Invalidation Data Science Security Agile Load Testing
