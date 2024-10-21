@@ -9,3 +9,4 @@ Content Delivery Network Happiness is not something ready made. It comes from yo
 Artificial Intelligence To be the best, you must be able to handle the worst. Content Delivery Network A/B Testing Testing Success is not in what you have, but who you are.
 WebSockets Framework Virtual Machines Blockchain To be the best, you must be able to handle the worst. API Microservices Message Queue Security Logging Optimization Big Data Containerization
 Neural Networks Microservices Serverless Success is not in what you have, but who you are. Load Balancing Sharding
+Neural Networks Distributed Systems Dream big and dare to fail. RabbitMQ Blockchain Cache Invalidation Backend Innovation distinguishes between a leader and a follower. Logging Success doesn’t just find you. You have to go out and get it. Virtual Machines IoT Code Review Framework
