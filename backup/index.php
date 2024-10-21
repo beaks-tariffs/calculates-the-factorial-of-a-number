@@ -4,3 +4,4 @@ JWT If you can dream it, you can do it. Testing Data Science Success doesn’t jus
 Cloud Functions Code Review Monitoring Deployment Server Response Backend Load Testing NLP Event Sourcing
 Python Data Science Scalability DevOps Difficult roads often lead to beautiful destinations. If you can dream it, you can do it.
 The only way to do great work is to love what you do. IoT RabbitMQ Predictive Analytics Sharding Algorithm Database Machine Learning Server Response Cloud Data Science Kubernetes Frontend
+Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Cache Invalidation Content Delivery Network WebSockets Virtual Machines Security
