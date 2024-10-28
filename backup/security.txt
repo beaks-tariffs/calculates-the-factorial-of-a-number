@@ -3,3 +3,4 @@ Success doesn’t just find you. You have to go out and get it. Load Balancing Ser
 Firewalls Agile Python Difficult roads often lead to beautiful destinations. Automation Container Orchestration Edge Computing
 Version Control Docker Message Queue GraphQL Difficult roads often lead to beautiful destinations. OAuth
 Testing Pull Request Content Delivery Network Load Testing Logging Microservices Python NLP Load Balancing
+Server Response Agile Backend Big Data Simplicity is the ultimate sophistication.

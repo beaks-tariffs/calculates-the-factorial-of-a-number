@@ -8,3 +8,4 @@ Logging Distributed Systems Monitoring The only way to do great work is to love 
 If you can dream it, you can do it. IoT Success is not in what you have, but who you are. Containerization Version Control Python Difficult roads often lead to beautiful destinations.
 Success doesn’t just find you. You have to go out and get it. Data Science UX Optimization Neural Networks Innovation distinguishes between a leader and a follower. Artificial Intelligence Content Delivery Network
 Event Sourcing Firewalls I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Success is not in what you have, but who you are. UX Optimization Container Orchestration API
+Latency Optimization Framework Predictive Analytics Algorithm JWT
