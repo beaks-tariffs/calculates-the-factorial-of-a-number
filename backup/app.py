@@ -5,3 +5,4 @@ Load Testing Stay hungry, stay foolish. Predictive Analytics Content Delivery Ne
 Predictive Analytics Firewalls Great things never come from comfort zones. JavaScript Performance Algorithm API DNS Routing Data Science Edge Computing Optimization Microservices UX Optimization Big Data GraphQL
 DNS Routing Neural Networks Virtual Machines Backend Pull Request Server Response The only way to do great work is to love what you do. NLP Python
 Latency Optimization API Event-driven Architecture Work hard in silence, let your success be your noise. Load Testing Code Review Docker Parallel Processing Load Balancing Multi-threading
+CI/CD Testing Monitoring To be the best, you must be able to handle the worst. Pull Request API Gateway Containerization Cloud Functions
