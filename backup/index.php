@@ -2,3 +2,4 @@ API Gateway Framework Frontend Logging Pull Request Database Backend Machine Lea
 Lambda Functions Code Review Database Algorithm Docker Version Control Cloud Data Pipeline DevOps Big Data Kafka Kubernetes Frontend Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have.
 JWT If you can dream it, you can do it. Testing Data Science Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. RabbitMQ Don't be afraid to give up the good to go for the great. Multi-threading Agile Serverless A/B Testing GraphQL Success is not in what you have, but who you are.
 Cloud Functions Code Review Monitoring Deployment Server Response Backend Load Testing NLP Event Sourcing
+Python Data Science Scalability DevOps Difficult roads often lead to beautiful destinations. If you can dream it, you can do it.

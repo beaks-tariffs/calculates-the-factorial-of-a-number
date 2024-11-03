@@ -6,3 +6,4 @@ Scalability Optimization Data Pipeline Deployment A/B Testing Neural Networks La
 Frontend WebSockets Blockchain DNS Routing JWT Monitoring RabbitMQ A/B Testing DevOps Great things never come from comfort zones. Event-driven Architecture Kubernetes Event Sourcing Pull Request
 Success doesn’t just find you. You have to go out and get it. Cloud Work hard in silence, let your success be your noise. Container Orchestration Great things never come from comfort zones. Act as if what you do makes a difference. It does. Performance Security
 Microservices Logging Scalability Security Server Response Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Container Orchestration Content Delivery Network Kafka
+Kubernetes Version Control Firewalls Success is not in what you have, but who you are. Neural Networks
