@@ -1,2 +1,3 @@
 WebSockets Work hard in silence, let your success be your noise. IoT Blockchain Version Control Optimization Load Balancing Deployment
 Latency Optimization Cloud Functions Testing Happiness is not something ready made. It comes from your own actions. IoT Machine Learning Algorithm Edge Computing UX Optimization Quantum Computing Load Testing Load Balancing Server Response Cache Invalidation
+Cloud GraphQL API Gateway Version Control Database Multi-threading Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Do what you love and the money will follow. Big Data Virtual Machines The only way to do great work is to love what you do. If you can dream it, you can do it. JavaScript

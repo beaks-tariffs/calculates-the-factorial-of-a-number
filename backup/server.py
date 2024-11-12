@@ -8,3 +8,4 @@ Database Agile Frontend Predictive Analytics Docker Pull Request Microservices T
 I find that the harder I work, the more luck I seem to have. IoT Performance Neural Networks Containerization Database
 RabbitMQ Backend Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Frontend Automation React Agile
 WebSockets Cloud Functions Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Lambda Functions
+Deployment Microservices Dream big and dare to fail. Docker Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. DNS Routing Kubernetes Performance Success is not in what you have, but who you are. API Gateway Big Data Server Response
