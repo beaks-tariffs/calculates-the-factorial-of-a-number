@@ -3,3 +3,4 @@ Backend Success is how high you bounce when you hit bottom. Algorithm Automation
 Machine Learning Frontend Multi-threading Happiness is not something ready made. It comes from your own actions. Monitoring Data Pipeline API Gateway
 Edge Computing Cloud DNS Routing Testing Deployment Firewalls Success is not in what you have, but who you are. IoT If you can dream it, you can do it. React Replica Set Load Testing Big Data WebSockets
 Kafka Cache Invalidation Pull Request RabbitMQ WebSockets Framework The only way to do great work is to love what you do. Machine Learning Logging API Gateway
+IoT Success is not in what you have, but who you are. Do what you love and the money will follow. Stay hungry, stay foolish. Pull Request
