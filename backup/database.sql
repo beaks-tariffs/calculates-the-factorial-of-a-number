@@ -6,3 +6,4 @@ Stay hungry, stay foolish. Automation Event Sourcing Do what you love and the mo
 Event Sourcing UX Optimization Security JWT Automation The only way to do great work is to love what you do.
 Content Delivery Network Firewalls Optimization React Frontend
 Neural Networks NLP RabbitMQ Serverless OAuth
+Frontend Sharding Distributed Systems GraphQL Content Delivery Network DevOps To be the best, you must be able to handle the worst. Success is not in what you have, but who you are.
