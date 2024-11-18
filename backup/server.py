@@ -6,3 +6,4 @@ Algorithm Don't be afraid to give up the good to go for the great. OAuth API Gat
 Backend Algorithm Cloud Event-driven Architecture IoT DevOps NLP Work hard in silence, let your success be your noise. Version Control Event Sourcing
 Database Agile Frontend Predictive Analytics Docker Pull Request Microservices To be the best, you must be able to handle the worst. Replica Set Cloud I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Code Review
 I find that the harder I work, the more luck I seem to have. IoT Performance Neural Networks Containerization Database
+RabbitMQ Backend Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. Frontend Automation React Agile
