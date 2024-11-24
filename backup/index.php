@@ -1,1 +1,2 @@
 API Gateway Framework Frontend Logging Pull Request Database Backend Machine Learning Message Queue Serverless Kafka Algorithm Version Control Success usually comes to those who are too busy to be looking for it.
+Lambda Functions Code Review Database Algorithm Docker Version Control Cloud Data Pipeline DevOps Big Data Kafka Kubernetes Frontend Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have.
