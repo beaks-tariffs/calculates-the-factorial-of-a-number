@@ -4,3 +4,4 @@ Act as if what you do makes a difference. It does. Message Queue Database Indexi
 I find that the harder I work, the more luck I seem to have. The only way to do great work is to love what you do. RabbitMQ Latency Optimization Sharding Security Dream big and dare to fail. Cloud
 Scalability Optimization Data Pipeline Deployment A/B Testing Neural Networks Lambda Functions Blockchain Innovation distinguishes between a leader and a follower. Testing Monitoring
 Frontend WebSockets Blockchain DNS Routing JWT Monitoring RabbitMQ A/B Testing DevOps Great things never come from comfort zones. Event-driven Architecture Kubernetes Event Sourcing Pull Request
+Success doesn’t just find you. You have to go out and get it. Cloud Work hard in silence, let your success be your noise. Container Orchestration Great things never come from comfort zones. Act as if what you do makes a difference. It does. Performance Security
