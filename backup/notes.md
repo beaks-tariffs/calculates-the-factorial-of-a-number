@@ -3,3 +3,4 @@ Artificial Intelligence Algorithm Version Control Kubernetes DNS Routing Data Sc
 React WebSockets Docker Distributed Systems Microservices Predictive Analytics Happiness is not something ready made. It comes from your own actions. Message Queue Serverless
 Version Control Firewalls Data Pipeline Load Balancing Serverless RabbitMQ Virtual Machines Edge Computing A/B Testing Lambda Functions Automation Blockchain
 Artificial Intelligence Cloud RabbitMQ Database Indexing JavaScript Optimization To be the best, you must be able to handle the worst. Message Queue Content Delivery Network Blockchain Success doesn’t just find you. You have to go out and get it. Event-driven Architecture
+Lambda Functions React Python Monitoring Cloud Functions
