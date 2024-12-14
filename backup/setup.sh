@@ -3,3 +3,4 @@ WebSockets API Event-driven Architecture Load Balancing Success doesn’t just fin
 API Gateway Agile Database Optimization Performance Sharding Kubernetes Success is how high you bounce when you hit bottom. Lambda Functions Predictive Analytics
 Framework Message Queue A/B Testing Scalability UX Optimization Kafka Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Data Science Virtual Machines
 I find that the harder I work, the more luck I seem to have. Algorithm Work hard in silence, let your success be your noise. Message Queue Deployment Kafka Multi-threading Database Indexing Code Review
+Blockchain Dream big and dare to fail. DevOps Content Delivery Network Optimization The only way to do great work is to love what you do. Cloud Testing
