@@ -3,3 +3,4 @@ Don't be afraid to give up the good to go for the great. Great things never come
 If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Deployment Load Balancing UX Optimization Difficult roads often lead to beautiful destinations. Performance
 Docker Automation Serverless Dream big and dare to fail. Stay hungry, stay foolish. The only way to do great work is to love what you do. Database
 Backend Performance Quantum Computing Happiness is not something ready made. It comes from your own actions. WebSockets Innovation distinguishes between a leader and a follower. IoT Load Testing Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Multi-threading
+API Gateway NLP API Machine Learning Simplicity is the ultimate sophistication. Backend Firewalls Work hard in silence, let your success be your noise. Logging Kafka Monitoring
