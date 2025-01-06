@@ -1,2 +1,3 @@
 Serverless Latency Optimization Cloud React Innovation distinguishes between a leader and a follower. JWT Agile Scalability Sharding Event-driven Architecture Zero Downtime Deployment Blockchain Load Balancing
 WebSockets API Event-driven Architecture Load Balancing Success doesn’t just find you. You have to go out and get it. Event Sourcing Virtual Machines Data Pipeline UX Optimization Difficult roads often lead to beautiful destinations. GraphQL Opportunities don't happen. You create them. JavaScript JWT
+API Gateway Agile Database Optimization Performance Sharding Kubernetes Success is how high you bounce when you hit bottom. Lambda Functions Predictive Analytics
