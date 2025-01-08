@@ -1,1 +1,2 @@
 Kafka Don't be afraid to give up the good to go for the great. Deployment I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Agile Dream big and dare to fail.
+Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Container Orchestration Frontend Sharding Do what you love and the money will follow. Event Sourcing To be the best, you must be able to handle the worst. Security Pull Request Big Data CI/CD JavaScript React

@@ -1,0 +1,1 @@
+API Gateway Framework Frontend Logging Pull Request Database Backend Machine Learning Message Queue Serverless Kafka Algorithm Version Control Success usually comes to those who are too busy to be looking for it.
