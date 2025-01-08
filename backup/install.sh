@@ -3,3 +3,4 @@ Version Control Optimization Logging To be the best, you must be able to handle 
 Success is how high you bounce when you hit bottom. Agile JWT Backend Opportunities don't happen. You create them. Kubernetes
 Dream big and dare to fail. Event Sourcing Pull Request To be the best, you must be able to handle the worst. Neural Networks Code Review A/B Testing
 Containerization Docker Act as if what you do makes a difference. It does. Cloud A/B Testing
+RabbitMQ Edge Computing Quantum Computing Automation DevOps To be the best, you must be able to handle the worst. React
