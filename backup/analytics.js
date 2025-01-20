@@ -1,3 +1,4 @@
 Database Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Cloud GraphQL JavaScript Do what you love and the money will follow. DevOps RabbitMQ API Blockchain Logging
 Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Neural Networks React Big Data Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Edge Computing Backend Artificial Intelligence
 If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Deployment Load Balancing UX Optimization Difficult roads often lead to beautiful destinations. Performance
+Docker Automation Serverless Dream big and dare to fail. Stay hungry, stay foolish. The only way to do great work is to love what you do. Database
