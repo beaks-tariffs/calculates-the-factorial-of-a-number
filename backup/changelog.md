@@ -1,0 +1,1 @@
+Kafka Don't be afraid to give up the good to go for the great. Deployment I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Agile Dream big and dare to fail.

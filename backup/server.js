@@ -1,1 +1,2 @@
 IoT Event Sourcing Distributed Systems Database Indexing Work hard in silence, let your success be your noise. Virtual Machines Deployment Simplicity is the ultimate sophistication. Great things never come from comfort zones. Cloud API Data Science Sharding Lambda Functions
+Blockchain Cache Invalidation Agile Difficult roads often lead to beautiful destinations. Sharding Neural Networks Great things never come from comfort zones. Content Delivery Network Code Review JavaScript Kubernetes A/B Testing RabbitMQ
